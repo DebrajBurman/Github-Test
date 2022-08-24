@@ -3,5 +3,7 @@ This is in dev branch code.
 
 added new line to dev branch code through feature branch.
 New code to be inserted in dev branch.
-first commit to line 6
-first commmit to line 7
+Added to beta branch code
+Also added new line to beta branch code
+second commit to line 6
+second commmit to line 7
